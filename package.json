@@ -1,0 +1,14 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task-cli": "node main.js"
+  },
+  "keywords": ["task-cli", "task-tracker", "node"],
+  "author": "Elmer Mamani",
+  "license": "MIT",
+  "description": "Task tracker is a project used to track and manage your tasks."
+}
